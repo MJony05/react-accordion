@@ -6,8 +6,8 @@ class App extends React.Component {
     this.state = { index: "" };
     this.data = [
       { savol: "Html zormi", javob: "ha" },
-      { savol: "Html zormi", javob: "ha" },
-      { savol: "Html zormi", javob: "ha" },
+      { savol: "CSS zormi", javob: "ha" },
+      { savol: "JS zormi", javob: "ha" },
     ];
   }
   getIndex = (key) => {
