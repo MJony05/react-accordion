@@ -1,4 +1,3 @@
-import { useState } from "react";
 import Accordion from "./components/Accordion";
 function App() {
   const data = [
